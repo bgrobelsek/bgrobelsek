@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a QA that likes to dabble in code and DB
+Hello, I'm a QA that likes to dabble in code and a huge shred guitar enthusiast :guitar:
 
 
 ## 🌐 Socials:
